@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/abhishek015807-oss/bananacathubleakerdbya1hub/refs/heads/main/banana.lua"))()
